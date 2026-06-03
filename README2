@@ -1,0 +1,40 @@
+Task 2 - Phishing Email Analysis
+
+Objective:
+
+To analyze a phishing email sample and identify common phishing indicators.
+
+Tools Used:
+
+- Kali Linux
+
+Steps Performed:
+
+1. Opened and examined a phishing email sample.
+2. Checked the sender's email address.
+3. Analyzed links present in the email.
+4. Looked for urgent or threatening language.
+5. Checked for spelling and grammar mistakes.
+6. Identified signs of social engineering.
+7. Took screenshots of the analysis.
+
+Phishing Indicators Found:
+
+- Suspicious sender email address.
+- Fake or misleading URLs.
+- Urgent language used to pressure the victim.
+- Request for sensitive information such as login credentials.
+- Social engineering techniques.
+- Suspicious email content and formatting.
+
+Findings:
+
+The phishing email attempted to trick users into revealing sensitive information such as account credentials. Multiple phishing characteristics were identified during the analysis.
+
+Conclusion:
+
+This task helped me understand phishing attacks, email spoofing, social engineering techniques, and methods used to detect malicious emails. The analyzed email showed several indicators of a phishing attempt and should not be trusted.
+
+Outcome:
+
+Gained awareness of phishing tactics and developed basic email threat analysis skills.
